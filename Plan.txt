@@ -1,0 +1,14 @@
+Online Banking System:
+
+first is login 
+email verification and validation
+
+second is sign up 
+-->user name
+--> pass word
+other details
+
+third is First page which contails bank name at top
+then right side corner Login Credentials
+then below we have options
+when you click options new pages gets opened up 
